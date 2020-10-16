@@ -1,0 +1,23 @@
+#sidebar{
+  position:fixed;
+  float: left;
+  width: 100px;
+  height: 400px;
+  border:1px solid;
+  background-color: lightblue;
+}
+#sidebar li a{
+  display: block;
+  width: 60px;
+  padding-top: 75px;
+}
+#sidebar ul{
+  list-style: none;
+  text-align: center;
+}
+#container{
+  border:1px solid;
+  margin-left: 120px;
+  float: right;
+  margin-right: 100px;
+}
