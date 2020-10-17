@@ -19,5 +19,27 @@
   border:1px solid;
   margin-left: 120px;
   float: right;
-  margin-right: 100px;
+  margin-right: 200px;
+}
+.profile{
+  text-align: center;
+}
+.social{
+  text-align: center;
+}
+.social ul{
+  list-style: none;
+}
+.pictures h2{
+  text-align: center;
+}
+.picture img{
+  height: 200px;
+  width: 200px;
+}
+body{
+  background:grey:
+}
+.about{
+  text-align: center;
 }
