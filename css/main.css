@@ -3,20 +3,19 @@
   float: left;
   width: 100px;
   height: 400px;
-  border:1px solid;
-  background-color: lightblue;
+  background-color: #EBD46E;
+  border-radius: 5%;
+  text-align: center;
 }
 #sidebar li a{
   display: block;
   width: 60px;
-  padding-top:1px;
+
 }
 #sidebar ul{
   list-style: none;
-  text-align: center;
 }
 #container{
-  border:1px solid;
   margin-left: 120px;
   float: right;
   margin-right: 200px;
@@ -27,6 +26,9 @@
 .profile p{
   font-size: 16pt;
 }
+.profile img{
+  border-radius: 50%;
+}
 .social{
   text-align: center;
 }
@@ -36,12 +38,13 @@
 .pictures h2{
   text-align: center;
 }
-.picture img{
+.pictures img{
   height: 200px;
   width: 200px;
+  border-radius: 50%;
 }
 body{
-  background:grey:
+  background:#DADEF2;
 }
 .about{
   text-align: center;
